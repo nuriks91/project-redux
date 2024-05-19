@@ -1,0 +1,70 @@
+.list {
+    display: flex;
+    width: 100%;
+}
+
+.list{
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    margin-top: 20px;
+}
+.list .btn{
+    float: right;
+    margin-left: 73%;
+    margin-top: 30px;
+    display: flex;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+    color: white;
+    margin-left: 30px;
+    cursor: pointer;
+
+}
+.fasort{
+    width: 10px;
+    height: 20px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.fasort svg{
+    font-size: 30px;
+}
+.cnt{
+    width: 100%;
+
+}
+.cantainer{
+    width: 100%;
+}
+.users{
+    width: 100%;
+    justify-content: space-around;
+    line-height: 60px;
+}
+.name{
+
+    transform: translateX(160px);
+}
+.delete_button{
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.delet{
+  font-size: 30px;
+  cursor: pointer;
+}
+.faPen{
+    font-size: 30px;
+}
+.icon{
+    height: 30px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
